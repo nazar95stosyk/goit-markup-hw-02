@@ -49,7 +49,6 @@ body {
 }
 .header-address-item {
   font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -74,8 +73,9 @@ body {
   background: #2e2f42;
 }
 .hero-title {
+  font-weight: 700;
   font-size: 56px;
-  line-height: 1, 07;
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
@@ -114,7 +114,6 @@ body {
   color: #2e2f42;
 }
 .features-item-description {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -126,6 +125,7 @@ body {
 .doing {
 }
 .doing-title {
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -144,6 +144,7 @@ body {
   background: #f4f4fd;
 }
 .team-title {
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -164,7 +165,6 @@ body {
   color: #2e2f42;
 }
 .team-item-description {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   text-align: center;
@@ -241,7 +241,6 @@ body {
   color: #f4f4fd;
 }
 .footer-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
